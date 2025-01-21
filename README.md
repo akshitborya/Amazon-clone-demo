@@ -1,3 +1,3 @@
 # Amazon-clone-demo
 This is my first Git Repository
-Author-akshitbodrya
+Author-akshitbodrya (apna college)
